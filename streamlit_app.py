@@ -64,6 +64,18 @@ else:
     st.sidebar.text("Actor/Actress information not available in this dataset.")
     filtered_movies = movies.copy()
 
+# Display top actors/actresses with ratings
+st.sidebar.title("Top Actors/Actresses")
+st.sidebar.write("1. Robert Downey Jr. (8.5)")
+st.sidebar.write("2. Scarlett Johansson (8.3)")
+st.sidebar.write("3. Leonardo DiCaprio (8.7)")
+# Add more actors/actresses as needed
+
+# Dropdown to see top movies in 2023
+st.sidebar.title("Top Movies in 2023")
+top_movies_2023 = ["Oppenheimer", "Barbie", "Killers of the Flower Moon", "Guardians of the Galaxy series", "Past Lives", "The Marvels", "Air", "Anatomy of a Fall", "Blue Beetle"]
+selected_top_movie_2023 = st.sidebar.selectbox("Select a Movie", top_movies_2023)
+
 # Streamlit App
 st.header('Movie Recommender System')
 

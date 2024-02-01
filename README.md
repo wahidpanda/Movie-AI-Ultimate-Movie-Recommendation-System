@@ -1,7 +1,9 @@
+![image](https://github.com/wahidpanda/Movie-AI-Ultimate-Movie-Recommendation-System/assets/110899864/564e760b-f919-4f0e-980a-21c6745e609d)
+
+
 # Movie-AI-Ultimate-Movie-Recommendation-System
 Movie-AI: Your personalized movie guide! This cutting-edge system uses advanced AI to analyze your preferences and recommend films tailored to your taste. Elevate your movie nights with precision-curated suggestions for an enhanced cinematic experience.
 
-![image](https://github.com/wahidpanda/Movie-AI-Ultimate-Movie-Recommendation-System/assets/110899864/ec2fbc1a-46fd-4aef-a83d-f2b8d64a48d9) 
 
 
 
@@ -54,3 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to reach out for any questions or feedback. Happy movie watching! 🍿
+
+Email me for Dataset  islamoahidul12@gmail.com 
